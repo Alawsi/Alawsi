@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alawsi
 - 👀 I’m interested in Programming and cyber security
 - 🌱 I’m currently learning python
-- 📫 How to reach me awsi5@protonmail.com
 
 <!---
 Alawsi/Alawsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
